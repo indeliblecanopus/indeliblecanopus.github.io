@@ -1,0 +1,47 @@
+navbar_entries:
+  - title: about
+    url: about
+
+  - title: blog
+    url: blog
+
+  - title: website
+    url: https://indeliblecanopus.cyou
+
+project_entries:
+  - title: Album Translate
+    url: album-translate-for-spotify
+    desc: G-workspace add-on for translating and searching track names in Spotify albums
+    # highlight: NEW
+
+  - title: Project 2
+    url: project2
+    desc: Unnamed G-workspace add-on
+    highlight: WIP
+
+  - title: Project 3
+    url: project3
+    desc: Unnamed NLP application
+    highlight: WIP
+
+
+old_project_entries:
+  - title: Project Title
+    url: https://www.project-url.com
+    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
+    highlight: ARCHIVED
+
+
+footer_entries:
+  - title: abhinav's homepage
+    url: https://indeliblecanopus.cyou
+
+  - title: twitter
+    url: https://twitter.com/twitter_username
+
+  - title: github
+    url: https://github.com/indeliblecanopus
+
+  - title: feed
+    url: feed.xml
+
