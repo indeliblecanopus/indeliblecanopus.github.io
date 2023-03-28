@@ -10,17 +10,17 @@ navbar_entries:
 
 project_entries:
   - title: Album Translate
-    url: album-translate-for-spotify
+    url: projects/album-translate-for-spotify
     desc: G-workspace add-on for translating and searching track names in Spotify albums
     # highlight: NEW
 
   - title: Project 2
-    url: project2
+    url: projects/project2
     desc: Unnamed G-workspace add-on
     highlight: WIP
 
   - title: Project 3
-    url: project3
+    url: projects/project3
     desc: Unnamed NLP application
     highlight: WIP
 
@@ -33,9 +33,6 @@ old_project_entries:
 
 
 footer_entries:
-  - title: abhinav's homepage
-    url: https://indeliblecanopus.cyou
-
   - title: twitter
     url: https://twitter.com/twitter_username
 
