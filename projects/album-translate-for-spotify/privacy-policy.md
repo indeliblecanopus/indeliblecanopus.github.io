@@ -5,15 +5,13 @@ robots: noindex
 
 # Privacy Policy - Album Translate for Spotify
 
-#### Last updated: 29 March 2023
+#### Last updated: 31 March 2023
 
-"Album Translate for Spotify" is a Google Workspace add-on, which is free and open-source project. The source code can be found [here](https://github.com/indeliblecanopus/album-translate-for-spotify){:target="_blank"}.
+"Album Translate for Spotify" is a Google Workspace add-on, which is free and open-source software. The source code can be found [here](https://github.com/indeliblecanopus/album-translate-for-spotify){:target="_blank"}.
 
-The add-on only asks minimum scope of permissions to your Google and Spotify accounts, which can be reviewed during installation and authorization process of the add-on. The add-on does not have access to read/write any document in Google Workspace.
+The required permissions (to user's Google/Spotify accounts) for the add-on are displayed during the installation and authorization process.
 
-We don't collect any personal information from users, but those who are more privacy-aware can always install add-on using "manual" method described [here](https://github.com/indeliblecanopus/album-translate-for-spotify#install-the-add-on){:target="_blank"}. However, we get your name and email address from you when you provide them to us – by leaving/opening the feedback/support issue or directly emailing to us.
-
-We don’t share any personal information publicly or with third-parties, except when required to by law.
+We don't collect any personal information from users, or share any personal information publicly or with third-parties. For those who are more privacy-aware can always install this add-on using "manual" method described [here](https://github.com/indeliblecanopus/album-translate-for-spotify#install-the-add-on){:target="_blank"}.
 
 Our website may link to external sites that are not operated by us. Please be aware that we have no control over the content and practices of these sites, and cannot accept responsibility or liability for their respective privacy policies.
 
