@@ -25,7 +25,7 @@ The add-on currently supports two core functions, which, going forward, we'll re
 `Translate` feature is supposed to be utilized when users need to translate all track names for a given album and display them in the add-on user GUI. You only need to insert an album URL in the translate field and click the `Translate` button to display results. 
 
 
-This function utilizes Google Translate service which, so corresponding daily quota limits apply as listed [here](https://developers.google.com/apps-script/guides/services/quotas){:target="_blank"}. Add-on tries to minimize translate calls by concatenating track names per album, however, sometimes this does not yield correct results and the add-on reverts back to translating each track name in the album one by one.    
+This function utilizes Google Translate service for which  corresponding daily quotas apply as listed [here](https://developers.google.com/apps-script/guides/services/quotas){:target="_blank"}. Add-on tries to minimize translate service calls by concatenating track names from the album, however, occassionally, this does not yield correct results and the add-on reverts back to translating each track name one by one, hence consuming a single quota per track.    
 
 
 **Note**: Currently, this feature is set to target only English translation.
@@ -46,10 +46,10 @@ Consider that, this feature similar to the `Translate` utilizes quota-limited se
 ### Playback Feature (Optional)
 
 
-`Playback` feature is optional and users can choose to enable it by marking a corresponding checkbox initially, during the add-on authorization. The feature can be utilized to add multiple tracks to the current player queue. You can choose tracks from the displayed results of either `Translate` or `Search` features.
+`Playback` feature is optional and users can choose to enable it by marking a corresponding checkbox initally, on credentials setup page. This feature can be utilized to add multiple tracks to the queue. You can choose tracks from the displayed results of either `Translate` or `Search` features.
 
 
-**Note**: This feature is limited (by Spotify) to only users with Premium subscription plans.
+**Note**: This feature is limited (by Spotify) to users with Premium subscription plans.
 
 
 ## Privacy Policy
